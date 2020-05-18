@@ -17,4 +17,4 @@ But these aren't normal times. So what can we do? It will depend on the project 
 If you want to review the overview slides, you can [find them here][slides]. 
 
 <!-- Pull in repostitory-scope variables from _data/page.yml -->
-[slides]: {{}}
+[slides]: <{{site.data.page.slides}}>
